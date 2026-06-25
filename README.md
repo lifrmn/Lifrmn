@@ -1,12 +1,12 @@
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:0f766e,70:2563eb,100:38bdf8&height=230&section=header&text=Alief%20Ryanto%20Rahman&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Student%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=17" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:0f766e,70:2563eb,100:38bdf8&height=240&section=header&text=Alief%20Ryanto%20Rahman&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Informatics%20Student%20%E2%80%A2%20Web%20Development%20Learner%20%E2%80%A2%20Digital%20Technology%20Enthusiast&descAlignY=58&descSize=17" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Alief Ryanto Rahman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2700&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Informatics+Engineering+Student;Web+Developer+%7C+Software+Engineering+Learner;AI+%26+Digital+Technology+Enthusiast;Interested+in+Finance%2C+Stocks%2C+and+Cryptocurrency;Learning+Every+Day+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2700&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Informatics+Engineering+Student;Learning+Web+Development;Interested+in+Digital+Technology;Interested+in+Finance%2C+Stocks%2C+and+Cryptocurrency;Keep+Learning+%E2%9C%A8" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -29,11 +29,11 @@
 
 <p align="center">
   <a href="https://github.com/lifrmn?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/lifrmn?label=Followers&style=for-the-badge&color=0f766e&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/lifrmn?label=Followers&style=for-the-badge&color=0f766e&logo=github" alt="Followers" />
   </a>
   &nbsp;
   <a href="https://github.com/lifrmn?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Public%20Repos-Click%20Here-2563eb?style=for-the-badge&logo=github" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Public%20Repos-View%20Projects-2563eb?style=for-the-badge&logo=github" alt="Repositories" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=lifrmn&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
@@ -41,36 +41,75 @@
 
 ---
 
+## ✨ Animation Preview
+
+<p align="center">
+  <img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=2DD4BF&center=true&vCenter=true&width=780&lines=Building+projects+step+by+step;Learning+code+every+day;Turning+ideas+into+digital+solutions;Web+Development+%E2%80%A2+Digital+Technology+%E2%80%A2+Finance" alt="Typing Animation 2" />
+</p>
+
+---
+
+## 🪪 Developer ID Card
+
+<table align="center">
+  <tr>
+    <td><b>Name</b></td>
+    <td>Alief Ryanto Rahman</td>
+  </tr>
+  <tr>
+    <td><b>Role</b></td>
+    <td>Informatics Engineering Student</td>
+  </tr>
+  <tr>
+    <td><b>Location</b></td>
+    <td>Makassar, South Sulawesi, Indonesia</td>
+  </tr>
+  <tr>
+    <td><b>Focus</b></td>
+    <td>Web Development, Digital Technology, Software Learning</td>
+  </tr>
+  <tr>
+    <td><b>Interests</b></td>
+    <td>Finance, Economics, Stocks, Cryptocurrency</td>
+  </tr>
+  <tr>
+    <td><b>Motto</b></td>
+    <td>Keep learning, keep building, and keep improving.</td>
+  </tr>
+</table>
+
+---
+
 ## 👨‍💻 About Me
 
-<img align="right" width="310" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Animation" />
 
-I am a **third-year undergraduate student in Informatics Engineering** with a strong foundation in **software development, website development, application development, and computer networking**.
+I am a **third-year undergraduate student in Informatics Engineering** with an interest in **web development, digital technology, finance, stocks, and cryptocurrency**.
 
-I am interested in **finance, economics, stocks, cryptocurrency, and digital technology**. I enjoy building projects, learning new technologies, and improving my programming skills through real-world applications.
+I am currently improving my skills through academic projects, personal projects, and organizational experiences. I enjoy learning step by step and building useful digital solutions.
 
 - 🎓 Informatics Engineering Student  
-- 💻 Interested in Web Development, Backend Development, AI, and Software Engineering  
-- 📈 Interested in Finance, Stocks, Cryptocurrency, and Digital Finance  
-- 🚀 Currently learning TypeScript, React, Python, Java, and Backend Development  
-- 🌱 Always learning, building, and improving  
+- 💻 Learning Web Development and Software Development  
+- 🧠 Interested in digital technology and problem solving  
+- 📈 Interested in finance, stocks, and cryptocurrency  
+- 🌱 Currently improving my programming and project-building skills  
 
 <br clear="right"/>
 
-```ts
+```js
 const alief = {
   name: "Alief Ryanto Rahman",
   username: "lifrmn",
   role: "Informatics Engineering Student",
   location: "Makassar, South Sulawesi, Indonesia",
-  interests: [
-    "Web Development",
-    "Backend Development",
-    "Artificial Intelligence",
-    "Digital Finance",
-    "Cryptocurrency"
-  ],
-  currentlyLearning: ["TypeScript", "React", "Python", "Java"],
+  focus: ["Web Development", "Digital Technology", "Software Learning"],
+  skills: ["HTML", "CSS", "JavaScript", "Python", "Java", "React", "MySQL", "MongoDB"],
+  tools: ["Visual Studio Code", "Git", "GitHub", "Figma", "Canva"],
+  interests: ["Finance", "Economics", "Stocks", "Cryptocurrency"],
   motto: "Keep learning, keep building, and keep improving."
 };
 ```
@@ -115,17 +154,17 @@ const alief = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nodejs,nestjs,express,vite,mysql,mongodb,git,github,vscode,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,mysql,mongodb,git,github,vscode,figma" alt="Tech Stack Icons" />
 </p>
 
 <table align="center">
   <tr>
-    <td align="center"><b>Programming</b></td>
-    <td>JavaScript, Python, Java, TypeScript</td>
+    <td align="center"><b>Programming Languages</b></td>
+    <td>JavaScript, Python, Java</td>
   </tr>
   <tr>
     <td align="center"><b>Web Development</b></td>
-    <td>HTML, CSS, React, Node.js, Express, NestJS</td>
+    <td>HTML, CSS, React</td>
   </tr>
   <tr>
     <td align="center"><b>Database</b></td>
@@ -145,7 +184,7 @@ const alief = {
   <tr>
     <td width="50%">
       <h3>🍰 UMKM-Kue-Tradisional</h3>
-      <p>A web-based application for managing traditional cake business data and digital product information.</p>
+      <p>A web-based project related to traditional cake business and digital product information.</p>
       <p>
         <a href="https://github.com/lifrmn/UMKM-Kue-Tradisional" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
@@ -223,24 +262,16 @@ const alief = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lifrmn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifrmn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lifrmn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifrmn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lifrmn&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=lifrmn&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lifrmn&theme=tokyonight" width="92%" />
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lifrmn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lifrmn&theme=tokyonight" width="92%" alt="Profile Summary" />
 </p>
 
 ---
@@ -248,7 +279,15 @@ const alief = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lifrmn&theme=tokyo-night&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lifrmn&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🧩 Learning Roadmap Animation
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=FACC15&center=true&vCenter=true&width=780&lines=HTML+%E2%86%92+CSS+%E2%86%92+JavaScript;Python+%E2%86%92+Java+%E2%86%92+React;MySQL+%E2%86%92+MongoDB+%E2%86%92+GitHub;Project+%E2%86%92+Portfolio+%E2%86%92+Career" alt="Roadmap Animation" />
 </p>
 
 ---
@@ -276,7 +315,7 @@ const alief = {
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Let's+build+something+useful+together.;Keep+learning%2C+keep+building%2C+and+keep+improving." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Let's+learn+and+build+step+by+step.;Keep+learning%2C+keep+building%2C+and+keep+improving." alt="Footer Typing Animation" />
 </p>
 
 <p align="center">
