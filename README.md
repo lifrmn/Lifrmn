@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td><b>Motto</b></td>
-    <td>Keep learning, keep building, and keep improving.</td>
+    <td>A bug can be fixed, but a girlfriend fixes you.</td>
   </tr>
 </table>
 
@@ -110,7 +110,7 @@ const alief = {
   skills: ["HTML", "CSS", "JavaScript", "Python", "Java", "React", "MySQL", "MongoDB"],
   tools: ["Visual Studio Code", "Git", "GitHub", "Figma", "Canva"],
   interests: ["Finance", "Economics", "Stocks", "Cryptocurrency"],
-  motto: "Keep learning, keep building, and keep improving."
+  motto: "A bug can be fixed, but a girlfriend fixes you."
 };
 ```
 
@@ -315,11 +315,11 @@ const alief = {
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Let's+learn+and+build+step+by+step.;Keep+learning%2C+keep+building%2C+and+keep+improving." alt="Footer Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;What+is+the+difference+between+a+bug+and+a+girlfriend%3F;A+bug+can+be+fixed%2C+but+a+girlfriend+fixes+you." alt="Footer Typing Animation" />
 </p>
 
 <p align="center">
-  <b>✨ Keep learning, keep building, and keep improving. ✨</b>
+  <b>💡 What is the difference between a bug and a girlfriend? A bug can be fixed, but a girlfriend fixes you. 💡</b>
 </p>
 
 <p align="center">
