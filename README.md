@@ -1,57 +1,77 @@
-<!--
-  GitHub Profile README
-  Name     : Alief Ryanto Rahman
-  Username : lifrmn
-  Note     : Pastikan nama repository profile sama persis dengan username: lifrmn
--->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:0f766e,100:38bdf8&height=220&section=header&text=Alief%20Ryanto%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Informatics%20Student%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:0f766e,70:2563eb,100:38bdf8&height=230&section=header&text=Alief%20Ryanto%20Rahman&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Student%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=17" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Alief Ryanto Rahman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Informatics+Engineering+Student;Web+Developer+%7C+Software+Engineering+Learner;AI+%26+Digital+Technology+Enthusiast;Interested+in+Finance%2C+Stocks%2C+and+Cryptocurrency;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2700&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Informatics+Engineering+Student;Web+Developer+%7C+Software+Engineering+Learner;AI+%26+Digital+Technology+Enthusiast;Interested+in+Finance%2C+Stocks%2C+and+Cryptocurrency;Learning+Every+Day+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/lifrmn">
-    <img src="https://img.shields.io/badge/GitHub-lifrmn-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/lifrmn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-lifrmn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/alief-ryanto-rahman-9706b3288">
-    <img src="https://img.shields.io/badge/LinkedIn-Alief%20Ryanto%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/alief-ryanto-rahman-9706b3288" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Alief%20Ryanto%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:alif.iip456@gmail.com">
-    <img src="https://img.shields.io/badge/Email-alif.iip456%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-alif.iip456%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://cryptojobslist.com/@terrakion_dev">
-    <img src="https://img.shields.io/badge/CryptoJobsList-terrakion__dev-F7931A?style=for-the-badge" />
-  </a>
-  <a href="./assets/CV_ALIEF_RYANTO_RAHMAN.pdf">
-    <img src="https://img.shields.io/badge/Download%20CV-PDF-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  &nbsp;
+  <a href="https://cryptojobslist.com/@terrakion_dev" target="_blank">
+    <img src="https://img.shields.io/badge/CryptoJobsList-terrakion__dev-F7931A?style=for-the-badge" alt="CryptoJobsList" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lifrmn&label=Profile%20Views&color=38bdf8&style=flat" alt="profile views" />
+  <a href="https://github.com/lifrmn?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/lifrmn?label=Followers&style=for-the-badge&color=0f766e&logo=github" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/lifrmn?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Public%20Repos-Click%20Here-2563eb?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=lifrmn&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
+<img align="right" width="310" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
 I am a **third-year undergraduate student in Informatics Engineering** with a strong foundation in **software development, website development, application development, and computer networking**.
 
-I am interested in **finance, economics, stocks, cryptocurrency, and the use of digital technology** in developing web-based and application systems. I also have experience supporting **IT operations, digital archive management, and organizational activities**.
+I am interested in **finance, economics, stocks, cryptocurrency, and digital technology**. I enjoy building projects, learning new technologies, and improving my programming skills through real-world applications.
+
+- 🎓 Informatics Engineering Student  
+- 💻 Interested in Web Development, Backend Development, AI, and Software Engineering  
+- 📈 Interested in Finance, Stocks, Cryptocurrency, and Digital Finance  
+- 🚀 Currently learning TypeScript, React, Python, Java, and Backend Development  
+- 🌱 Always learning, building, and improving  
+
+<br clear="right"/>
 
 ```ts
 const alief = {
+  name: "Alief Ryanto Rahman",
+  username: "lifrmn",
   role: "Informatics Engineering Student",
   location: "Makassar, South Sulawesi, Indonesia",
-  interests: ["Web Development", "Backend Development", "AI", "Digital Finance", "Cryptocurrency"],
-  currentlyLearning: ["TypeScript", "React", "Python", "Java", "Backend Development"],
-  mindset: "Keep learning, keep building, and keep improving."
+  interests: [
+    "Web Development",
+    "Backend Development",
+    "Artificial Intelligence",
+    "Digital Finance",
+    "Cryptocurrency"
+  ],
+  currentlyLearning: ["TypeScript", "React", "Python", "Java"],
+  motto: "Keep learning, keep building, and keep improving."
 };
 ```
 
@@ -61,7 +81,7 @@ const alief = {
 
 <table>
   <tr>
-    <td width="30%"><b>University</b></td>
+    <td width="28%"><b>University</b></td>
     <td>Universitas Muhammadiyah Makassar</td>
   </tr>
   <tr>
@@ -94,20 +114,18 @@ const alief = {
 
 ## 🛠️ Tech Stack
 
-### Languages, Frameworks, Databases, and Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nodejs,nestjs,express,vite,mysql,mongodb,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nodejs,nestjs,express,vite,mysql,mongodb,git,github,vscode,figma,canva" />
 </p>
 
 <table align="center">
   <tr>
     <td align="center"><b>Programming</b></td>
-    <td>JavaScript, Python, Java</td>
+    <td>JavaScript, Python, Java, TypeScript</td>
   </tr>
   <tr>
     <td align="center"><b>Web Development</b></td>
-    <td>HTML, CSS, React</td>
+    <td>HTML, CSS, React, Node.js, Express, NestJS</td>
   </tr>
   <tr>
     <td align="center"><b>Database</b></td>
@@ -121,14 +139,50 @@ const alief = {
 
 ---
 
-## 🤝 Interpersonal Skills
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Teamwork-0f766e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multitasking-2563eb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Communication-9333ea?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Adaptability-f97316?style=for-the-badge" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🍰 UMKM-Kue-Tradisional</h3>
+      <p>A web-based application for managing traditional cake business data and digital product information.</p>
+      <p>
+        <a href="https://github.com/lifrmn/UMKM-Kue-Tradisional" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🐱 Website-Kucing-Polewali-Mandar</h3>
+      <p>A website project that presents information related to cats and local content in Polewali Mandar.</p>
+      <p>
+        <a href="https://github.com/lifrmn/Website-Kucing-Polewali-Mandar" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🐦 KICAU-MANIA</h3>
+      <p>A Python-based project related to bird community features, bird sound, or bird hobby activities.</p>
+      <p>
+        <a href="https://github.com/lifrmn/KICAU-MANIA-" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>💳 Terrakion-topup</h3>
+      <p>A digital top-up project related to transaction services and web-based system development.</p>
+      <p>
+        <a href="https://github.com/lifrmn/Terrakion-topup" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -136,7 +190,7 @@ const alief = {
 
 <table>
   <tr>
-    <td width="30%"><b>Program</b></td>
+    <td width="28%"><b>Program</b></td>
     <td>WEB3 On Campus FEB UNEM 2025</td>
   </tr>
   <tr>
@@ -155,46 +209,14 @@ const alief = {
 
 ---
 
-## 🚀 Featured Projects
+## 🤝 Interpersonal Skills
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🍰 UMKM-Kue-Tradisional</h3>
-      <p>A web-based application for managing traditional cake business data and digital product information.</p>
-      <p><b>Tech Stack:</b> TypeScript, Web Development</p>
-    </td>
-    <td width="50%">
-      <h3>🐱 Website-Kucing-Polewali-Mandar</h3>
-      <p>A website project that presents information related to cats and local content in Polewali Mandar.</p>
-      <p><b>Tech Stack:</b> TypeScript, Web Development</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🐦 KICAU-MANIA</h3>
-      <p>A Python-based project related to bird community features, bird sound, or bird hobby activities.</p>
-      <p><b>Tech Stack:</b> Python</p>
-    </td>
-    <td width="50%">
-      <h3>💳 Terrakion-topup</h3>
-      <p>A digital top-up project related to transaction services and web-based system development.</p>
-      <p><b>Tech Stack:</b> Docker, Web Development</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎮 Game Simulasi Danis Pahlawan Perang</h3>
-      <p>A simulation game project created to improve programming logic and game development understanding.</p>
-      <p><b>Tech Stack:</b> C# / Game Development</p>
-    </td>
-    <td width="50%">
-      <h3>🎓 FINAL-SKRIPSI</h3>
-      <p>A final thesis project repository related to the development and implementation of a digital application system.</p>
-      <p><b>Tech Stack:</b> TypeScript / Web Development</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Teamwork-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multitasking-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Communication-9333ea?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adaptability-f97316?style=for-the-badge" />
+</p>
 
 ---
 
@@ -210,7 +232,7 @@ const alief = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lifrmn&theme=tokyonight" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lifrmn&theme=tokyonight" width="92%" />
 </p>
 
 ---
@@ -234,16 +256,19 @@ const alief = {
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/lifrmn">
-    <img src="https://img.shields.io/badge/GitHub-lifrmn-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/lifrmn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-lifrmn-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/alief-ryanto-rahman-9706b3288">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/alief-ryanto-rahman-9706b3288" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Alief%20Ryanto%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:alif.iip456@gmail.com">
     <img src="https://img.shields.io/badge/Email-alif.iip456%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://cryptojobslist.com/@terrakion_dev">
+  &nbsp;
+  <a href="https://cryptojobslist.com/@terrakion_dev" target="_blank">
     <img src="https://img.shields.io/badge/CryptoJobsList-terrakion__dev-F7931A?style=for-the-badge" />
   </a>
 </p>
@@ -251,13 +276,13 @@ const alief = {
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Let's+build+something+useful+together." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Let's+build+something+useful+together.;Keep+learning%2C+keep+building%2C+and+keep+improving." />
 </p>
 
 <p align="center">
-  <b>“Keep learning, keep building, and keep improving.”</b>
+  <b>✨ Keep learning, keep building, and keep improving. ✨</b>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:0f766e,100:38bdf8&height=130&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:0f766e,70:2563eb,100:38bdf8&height=135&section=footer" />
 </p>
