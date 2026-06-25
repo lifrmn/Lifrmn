@@ -44,7 +44,11 @@
 ## ✨ Animation Preview
 
 <p align="center">
-  <img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
+  <img width="420" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Developer Coding Animation" />
+</p>
+
+<p align="center">
+  <img width="420" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Programming Animation" />
 </p>
 
 <p align="center">
