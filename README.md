@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:0f766e,70:2563eb,100:38bdf8&height=240&section=header&text=Alief%20Ryanto%20Rahman&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Informatics%20Student%20%E2%80%A2%20Web%20Development%20Learner%20%E2%80%A2%20Digital%20Technology%20Enthusiast&descAlignY=58&descSize=17" />
 </p>
@@ -41,14 +42,17 @@
 
 ---
 
-## ✨ Animation Preview
-
 <p align="center">
-  <img width="420" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Developer Coding Animation" />
-</p>
-
-<p align="center">
-  <img width="420" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Programming Animation" />
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <img width="380" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Developer Coding Animation" />
+      </td>
+      <td align="center" width="50%">
+        <img width="380" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Programming Animation" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
