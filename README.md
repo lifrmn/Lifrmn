@@ -9,6 +9,22 @@
 </p>
 
 <p align="center">
+  <a href="https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9" target="_blank">
+    <img width="300" src="assets/young_and_beautiful_music_vibes.gif" alt="Now Playing: Young and Beautiful" />
+  </a>
+</p>
+
+<!-- SPOTIFY-NOW-PLAYING:START -->
+<p align="center">
+  🎵 <b>Now Playing</b><br/>
+  <b>Young and Beautiful</b> • Lana Del Rey<br/>
+  <a href="https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9" target="_blank">
+    <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
+  </a>
+</p>
+<!-- SPOTIFY-NOW-PLAYING:END -->
+
+<p align="center">
   <a href="https://github.com/lifrmn" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-lifrmn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -287,6 +303,18 @@ const alief = {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lifrmn&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
 </p>
+
+---
+
+## 🎧 Live Spotify Setup
+
+To make the song section update automatically from your Spotify account, add these repository secrets:
+
+- `SPOTIFY_CLIENT_ID`
+- `SPOTIFY_CLIENT_SECRET`
+- `SPOTIFY_REFRESH_TOKEN`
+
+The workflow file is `.github/workflows/update-spotify-now-playing.yml` and it updates this README every 30 minutes.
 
 ---
 
