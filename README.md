@@ -63,10 +63,6 @@
     <td>Informatics Engineering Student</td>
   </tr>
   <tr>
-    <td><b>Location</b></td>
-    <td>Makassar, South Sulawesi, Indonesia</td>
-  </tr>
-  <tr>
     <td><b>Focus</b></td>
     <td>Web Development, Application Development, Digital Technology</td>
   </tr>
@@ -103,7 +99,6 @@ const alief = {
   name: "Alief Ryanto Rahman",
   username: "lifrmn",
   role: "Informatics Engineering Student",
-  location: "Makassar, South Sulawesi, Indonesia",
   focus: ["Web Development", "Application Development", "Digital Product Learning"],
   skills: ["HTML", "CSS", "JavaScript", "Python", "Java", "React", "MySQL", "MongoDB"],
   tools: ["Visual Studio Code", "Git", "GitHub", "Figma", "Canva"],
@@ -111,41 +106,6 @@ const alief = {
   motto: "A bug can be fixed, but a girlfriend fixes you."
 };
 ```
-
----
-
-## 🎓 Education
-
-<table>
-  <tr>
-    <td width="28%"><b>University</b></td>
-    <td>Universitas Muhammadiyah Makassar</td>
-  </tr>
-  <tr>
-    <td><b>Major</b></td>
-    <td>Informatics Engineering</td>
-  </tr>
-  <tr>
-    <td><b>Period</b></td>
-    <td>August 2022 - Present</td>
-  </tr>
-  <tr>
-    <td><b>Location</b></td>
-    <td>Makassar, South Sulawesi</td>
-  </tr>
-</table>
-
----
-
-## 💼 Experience
-
-### Internship — Office of Industry and Trade of South Sulawesi Province  
-**Finance Division** | **July 2025 - October 2025**
-
-- Assisted with recording, archiving, and reviewing financial documents in an orderly and systematic manner.
-- Helped finance staff prepare and organize supporting documents for administrative activities.
-- Checked document completeness, entered data, and supported financial archive organization.
-- Developed attention to detail, responsibility, communication skills, and a basic understanding of financial administration in a government institution.
 
 ---
 
@@ -223,29 +183,6 @@ const alief = {
 
 ---
 
-## 🏅 Certificate & Training
-
-<table>
-  <tr>
-    <td width="28%"><b>Program</b></td>
-    <td>WEB3 On Campus FEB UNEM 2025</td>
-  </tr>
-  <tr>
-    <td><b>Role</b></td>
-    <td>Participant</td>
-  </tr>
-  <tr>
-    <td><b>Organizer</b></td>
-    <td>FEB UNEM</td>
-  </tr>
-  <tr>
-    <td><b>Year</b></td>
-    <td>2025</td>
-  </tr>
-</table>
-
----
-
 ## 🤝 Interpersonal Skills
 
 <p align="center">
@@ -282,7 +219,7 @@ const alief = {
 
 ---
 
-## 🧩 Cyber-Style Learning Roadmap
+## 🧩 Learning Roadmap
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=FACC15&center=true&vCenter=true&width=780&lines=HTML+%E2%86%92+CSS+%E2%86%92+JavaScript;React+%E2%86%92+API+Integration+%E2%86%92+Deployment;Python+%E2%86%92+Backend+Logic+%E2%86%92+Automation;Project+%E2%86%92+Portfolio+%E2%86%92+Career" alt="Roadmap Animation" />
