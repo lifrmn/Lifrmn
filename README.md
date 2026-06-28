@@ -1,11 +1,11 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:0f766e,70:2563eb,100:38bdf8&height=240&section=header&text=Alief%20Ryanto%20Rahman&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Informatics%20Student%20%E2%80%A2%20Cybersecurity%20Learner%20%E2%80%A2%20Digital%20Technology%20Enthusiast&descAlignY=58&descSize=17" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:0f766e,70:2563eb,100:38bdf8&height=240&section=header&text=Alief%20Ryanto%20Rahman&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Informatics%20Student%20%E2%80%A2%20Web%20and%20App%20Development%20Learner%20%E2%80%A2%20Digital%20Technology%20Enthusiast&descAlignY=58&descSize=17" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Alief Ryanto Rahman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2700&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Informatics+Engineering+Student;Learning+Cybersecurity;Interested+in+Network+Security+and+Ethical+Hacking;Focused+on+Digital+Threat+Awareness;Keep+Learning+%E2%9C%A8" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2700&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Informatics+Engineering+Student;Learning+Web+Development;Learning+Application+Development;Building+Modern+Digital+Solutions;Keep+Learning+%E2%9C%A8" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=2DD4BF&center=true&vCenter=true&width=780&lines=Building+security+skills+step+by+step;Learning+security+tools+every+day;Turning+risks+into+resilient+systems;Cybersecurity+%E2%80%A2+Digital+Technology+%E2%80%A2+Threat+Awareness" alt="Typing Animation 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=2DD4BF&center=true&vCenter=true&width=780&lines=Building+web+and+app+projects+step+by+step;Learning+code+every+day;Turning+ideas+into+interactive+products;Web+Development+%E2%80%A2+Application+Development+%E2%80%A2+Digital+Technology" alt="Typing Animation 2" />
 </p>
 
 ---
@@ -68,11 +68,11 @@
   </tr>
   <tr>
     <td><b>Focus</b></td>
-    <td>Cybersecurity, Network Security, Digital Technology</td>
+    <td>Web Development, Application Development, Digital Technology</td>
   </tr>
   <tr>
     <td><b>Interests</b></td>
-    <td>Ethical Hacking, Cyber Threat Intelligence, Security Research</td>
+    <td>UI Development, Full-Stack Projects, Digital Product Building</td>
   </tr>
   <tr>
     <td><b>Motto</b></td>
@@ -86,15 +86,15 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Animation" />
 
-I am a **third-year undergraduate student in Informatics Engineering** with an interest in **cybersecurity, network defense, and digital technology**.
+I am a **third-year undergraduate student in Informatics Engineering** with an interest in **web development, application development, and digital technology**.
 
-I am currently improving my skills through academic projects, personal projects, and organizational experiences. I enjoy learning step by step and building secure digital solutions.
+I am currently improving my skills through academic projects, personal projects, and organizational experiences. I enjoy learning step by step and building useful digital applications.
 
 - 🎓 Informatics Engineering Student  
-- 💻 Learning Cybersecurity and Secure Software Development  
-- 🧠 Interested in digital technology, network defense, and problem solving  
-- 🛡️ Exploring ethical hacking and vulnerability assessment  
-- 🌱 Currently improving my security analysis and project-building skills  
+- 💻 Learning Web Development and Application Development  
+- 🧠 Interested in digital technology and problem solving  
+- 🧩 Exploring front-end and back-end integration  
+- 🌱 Currently improving my programming and project-building skills  
 
 <br clear="right"/>
 
@@ -104,10 +104,10 @@ const alief = {
   username: "lifrmn",
   role: "Informatics Engineering Student",
   location: "Makassar, South Sulawesi, Indonesia",
-  focus: ["Cybersecurity", "Network Security", "Threat Analysis"],
-  skills: ["Python", "JavaScript", "Linux", "Bash", "SQL", "Networking Basics"],
-  tools: ["Visual Studio Code", "Git", "GitHub", "Wireshark", "Nmap"],
-  interests: ["Ethical Hacking", "Cyber Threat Intelligence", "Digital Security"],
+  focus: ["Web Development", "Application Development", "Digital Product Learning"],
+  skills: ["HTML", "CSS", "JavaScript", "Python", "Java", "React", "MySQL", "MongoDB"],
+  tools: ["Visual Studio Code", "Git", "GitHub", "Figma", "Canva"],
+  interests: ["UI Development", "Full-Stack Projects", "Digital Technology"],
   motto: "A bug can be fixed, but a girlfriend fixes you."
 };
 ```
@@ -158,19 +158,19 @@ const alief = {
 <table align="center">
   <tr>
     <td align="center"><b>Programming Languages</b></td>
-    <td>Python, JavaScript, Bash</td>
+    <td>JavaScript, Python, Java</td>
   </tr>
   <tr>
-    <td align="center"><b>Security Fundamentals</b></td>
-    <td>Network Security, Ethical Hacking Basics, Vulnerability Awareness</td>
+    <td align="center"><b>Web Development</b></td>
+    <td>HTML, CSS, React</td>
   </tr>
   <tr>
-    <td align="center"><b>Systems & Database</b></td>
-    <td>Linux, MySQL, MongoDB</td>
+    <td align="center"><b>Database</b></td>
+    <td>MySQL, MongoDB</td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
-    <td>Visual Studio Code, Git, GitHub, Wireshark, Nmap</td>
+    <td>Visual Studio Code, Git, GitHub, Figma, Canva</td>
   </tr>
 </table>
 
@@ -282,10 +282,10 @@ const alief = {
 
 ---
 
-## 🧩 Cybersecurity Roadmap Animation
+## 🧩 Cyber-Style Learning Roadmap
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=FACC15&center=true&vCenter=true&width=780&lines=Networking+%E2%86%92+Linux+%E2%86%92+Bash;Python+%E2%86%92+Security+Scripting+%E2%86%92+Automation;Nmap+%E2%86%92+Wireshark+%E2%86%92+Log+Analysis;CTF+Practice+%E2%86%92+Portfolio+%E2%86%92+Career" alt="Roadmap Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=FACC15&center=true&vCenter=true&width=780&lines=HTML+%E2%86%92+CSS+%E2%86%92+JavaScript;React+%E2%86%92+API+Integration+%E2%86%92+Deployment;Python+%E2%86%92+Backend+Logic+%E2%86%92+Automation;Project+%E2%86%92+Portfolio+%E2%86%92+Career" alt="Roadmap Animation" />
 </p>
 
 ---
