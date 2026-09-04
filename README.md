@@ -85,11 +85,6 @@ const alief = {
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lifrmn&theme=tokyonight" alt="GitHub statistics" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lifrmn&theme=tokyonight" alt="Most used languages" />
-</p>
-
-<p align="center">
   <img width="62%" src="https://streak-stats.demolab.com?user=lifrmn&hide_border=true&theme=tokyonight" alt="GitHub contribution streak" />
 </p>
 
