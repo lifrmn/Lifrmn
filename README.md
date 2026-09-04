@@ -46,23 +46,23 @@ const alief = {
   username: "lifrmn",
   role: "Informatics Engineering Student",
   focus: ["Web Development", "Application Development", "Digital Product Learning"],
-  skills: ["HTML", "CSS", "JavaScript", "Python", "Java", "React", "MySQL", "MongoDB"],
-  tools: ["Visual Studio Code", "Git", "GitHub", "Figma", "Canva"]
+  skills: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "Java", "Kotlin", "C#", "C++", "React", "MySQL", "MongoDB"],
+  tools: ["Visual Studio Code", "Git", "GitHub", "Docker", "Figma", "Canva"]
 };
 ```
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,mysql,mongodb,git,github,vscode,figma" alt="HTML, CSS, JavaScript, Python, Java, React, MySQL, MongoDB, Git, GitHub, VS Code, and Figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,cs,cpp,react,mysql,mongodb,docker,git,github,vscode,figma" alt="HTML, CSS, JavaScript, TypeScript, Python, Java, Kotlin, C#, C++, React, MySQL, MongoDB, Docker, Git, GitHub, VS Code, and Figma" />
 </p>
 
 | Area | Technologies |
 | --- | --- |
-| Programming Languages | JavaScript, Python, Java |
+| Programming Languages | JavaScript, TypeScript, Python, Java, Kotlin, C#, C++ |
 | Web Development | HTML, CSS, React |
 | Database | MySQL, MongoDB |
-| Tools | Visual Studio Code, Git, GitHub, Figma, Canva |
+| Tools | Visual Studio Code, Git, GitHub, Docker, Figma, Canva |
 
 ## Featured Projects
 
