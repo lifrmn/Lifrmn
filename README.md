@@ -1,98 +1,44 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:0f766e,70:2563eb,100:38bdf8&height=240&section=header&text=Alief%20Ryanto%20Rahman&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Informatics%20Student%20%E2%80%A2%20Web%20and%20App%20Development%20Learner%20%E2%80%A2%20Digital%20Technology%20Enthusiast&descAlignY=58&descSize=17" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:38BDF8&height=210&section=header&text=Alief%20Ryanto%20Rahman&fontSize=42&fontColor=FFFFFF&animation=fadeIn" alt="Alief Ryanto Rahman" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Alief Ryanto Rahman</h1>
+<h1 align="center">Hi, I'm Alief Ryanto Rahman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2700&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Informatics+Engineering+Student;Learning+Web+Development;Learning+Application+Development;Building+Modern+Digital+Solutions;Keep+Learning+%E2%9C%A8" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/lifrmn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-lifrmn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://cryptojobslist.com/@terrakion_dev" target="_blank">
-    <img src="https://img.shields.io/badge/CryptoJobsList-terrakion__dev-F7931A?style=for-the-badge" alt="CryptoJobsList" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=14B8A6&center=true&vCenter=true&width=780&lines=Informatics+Engineering+Student;Web+and+App+Development+Learner;Building+Modern+Digital+Solutions" alt="Informatics Engineering Student and Web Developer" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/lifrmn?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/lifrmn?label=Followers&style=for-the-badge&color=0f766e&logo=github" alt="Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/lifrmn?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Public%20Repos-View%20Projects-2563eb?style=for-the-badge&logo=github" alt="Repositories" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=lifrmn&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="50%">
-        <img width="380" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Developer Coding Animation" />
-      </td>
-      <td align="center" width="50%">
-        <img width="380" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Programming Animation" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/lifrmn"><img src="https://img.shields.io/badge/GitHub-lifrmn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://cryptojobslist.com/@terrakion_dev"><img src="https://img.shields.io/badge/CryptoJobsList-terrakion__dev-F7931A?style=for-the-badge" alt="CryptoJobsList profile" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=2DD4BF&center=true&vCenter=true&width=780&lines=Building+web+and+app+projects+step+by+step;Learning+code+every+day;Turning+ideas+into+interactive+products;Web+Development+%E2%80%A2+Application+Development+%E2%80%A2+Digital+Technology" alt="Typing Animation 2" />
+  <a href="https://github.com/lifrmn?tab=followers"><img src="https://img.shields.io/github/followers/lifrmn?label=Followers&style=for-the-badge&color=0F766E&logo=github" alt="GitHub followers" /></a>
+  <a href="https://github.com/lifrmn?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-View%20Projects-2563EB?style=for-the-badge&logo=github" alt="View repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=lifrmn&label=Profile%20Views&color=14B8A6&style=for-the-badge" alt="Profile views" />
 </p>
 
----
+## About Me
 
-## 🪪 Developer ID Card
+<img align="right" width="260" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Developer coding animation" />
 
-<table align="center">
-  <tr>
-    <td><b>Name</b></td>
-    <td>Alief Ryanto Rahman</td>
-  </tr>
-  <tr>
-    <td><b>Role</b></td>
-    <td>Informatics Engineering Student</td>
-  </tr>
-  <tr>
-    <td><b>Focus</b></td>
-    <td>Web Development, Application Development, Digital Technology</td>
-  </tr>
-  <tr>
-    <td><b>Interests</b></td>
-    <td>UI Development, Full-Stack Projects, Digital Product Building</td>
-  </tr>
-  <tr>
-    <td><b>Motto</b></td>
-    <td>A bug can be fixed, but a girlfriend fixes you.</td>
-  </tr>
-</table>
+I am a third-year undergraduate student in Informatics Engineering. I develop my skills through academic, personal, and organizational projects, with an interest in building useful and interactive digital products.
 
----
+- Learning web and application development
+- Exploring front-end and back-end integration
+- Interested in UI development, full-stack projects, and problem solving
 
-## 👨‍💻 About Me
+<br clear="right" />
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Animation" />
+## Developer Profile
 
-I am a **third-year undergraduate student in Informatics Engineering** with an interest in **web development, application development, and digital technology**.
-
-I am currently improving my skills through academic projects, personal projects, and organizational experiences. I enjoy learning step by step and building useful digital applications.
-
-- 🎓 Informatics Engineering Student  
-- 💻 Learning Web Development and Application Development  
-- 🧠 Interested in digital technology and problem solving  
-- 🧩 Exploring front-end and back-end integration  
-- 🌱 Currently improving my programming and project-building skills  
-
-<br clear="right"/>
+| Detail | Information |
+| --- | --- |
+| Name | Alief Ryanto Rahman |
+| Role | Informatics Engineering Student |
+| Focus | Web Development, Application Development, Digital Technology |
+| Interests | UI Development, Full-Stack Projects, Digital Product Building |
 
 ```js
 const alief = {
@@ -101,154 +47,67 @@ const alief = {
   role: "Informatics Engineering Student",
   focus: ["Web Development", "Application Development", "Digital Product Learning"],
   skills: ["HTML", "CSS", "JavaScript", "Python", "Java", "React", "MySQL", "MongoDB"],
-  tools: ["Visual Studio Code", "Git", "GitHub", "Figma", "Canva"],
-  interests: ["UI Development", "Full-Stack Projects", "Digital Technology"],
-  motto: "A bug can be fixed, but a girlfriend fixes you."
+  tools: ["Visual Studio Code", "Git", "GitHub", "Figma", "Canva"]
 };
 ```
 
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,mysql,mongodb,git,github,vscode,figma" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,mysql,mongodb,git,github,vscode,figma" alt="HTML, CSS, JavaScript, Python, Java, React, MySQL, MongoDB, Git, GitHub, VS Code, and Figma" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center"><b>Programming Languages</b></td>
-    <td>JavaScript, Python, Java</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Web Development</b></td>
-    <td>HTML, CSS, React</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Database</b></td>
-    <td>MySQL, MongoDB</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools</b></td>
-    <td>Visual Studio Code, Git, GitHub, Figma, Canva</td>
-  </tr>
-</table>
+| Area | Technologies |
+| --- | --- |
+| Programming Languages | JavaScript, Python, Java |
+| Web Development | HTML, CSS, React |
+| Database | MySQL, MongoDB |
+| Tools | Visual Studio Code, Git, GitHub, Figma, Canva |
 
----
+## Featured Projects
 
-## 🚀 Featured Projects
+| Project | Description |
+| --- | --- |
+| [UMKM-Kue-Tradisional](https://github.com/lifrmn/UMKM-Kue-Tradisional) | A web project for a traditional cake business and digital product information. |
+| [Website-Kucing-Polewali-Mandar](https://github.com/lifrmn/Website-Kucing-Polewali-Mandar) | A website about cats and local content in Polewali Mandar. |
+| [KICAU-MANIA](https://github.com/lifrmn/KICAU-MANIA-) | A Python project related to bird community features and hobby activities. |
+| [Terrakion-topup](https://github.com/lifrmn/Terrakion-topup) | A digital top-up project for transaction services and web-based system development. |
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🍰 UMKM-Kue-Tradisional</h3>
-      <p>A web-based project related to traditional cake business and digital product information.</p>
-      <p>
-        <a href="https://github.com/lifrmn/UMKM-Kue-Tradisional" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🐱 Website-Kucing-Polewali-Mandar</h3>
-      <p>A website project that presents information related to cats and local content in Polewali Mandar.</p>
-      <p>
-        <a href="https://github.com/lifrmn/Website-Kucing-Polewali-Mandar" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🐦 KICAU-MANIA</h3>
-      <p>A Python-based project related to bird community features, bird sound, or bird hobby activities.</p>
-      <p>
-        <a href="https://github.com/lifrmn/KICAU-MANIA-" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>💳 Terrakion-topup</h3>
-      <p>A digital top-up project related to transaction services and web-based system development.</p>
-      <p>
-        <a href="https://github.com/lifrmn/Terrakion-topup" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🤝 Interpersonal Skills
+## Interpersonal Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Teamwork-0f766e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multitasking-2563eb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Communication-9333ea?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Adaptability-f97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Teamwork-0F766E?style=for-the-badge" alt="Teamwork" />
+  <img src="https://img.shields.io/badge/Multitasking-2563EB?style=for-the-badge" alt="Multitasking" />
+  <img src="https://img.shields.io/badge/Communication-7C3AED?style=for-the-badge" alt="Communication" />
+  <img src="https://img.shields.io/badge/Adaptability-F59E0B?style=for-the-badge" alt="Adaptability" />
 </p>
 
----
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lifrmn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifrmn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lifrmn&show_icons=true&hide_border=true&title_color=14B8A6&icon_color=38BDF8&text_color=334155&bg_color=FFFFFF" alt="GitHub statistics" />
+  <img width="41%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lifrmn&layout=compact&hide_border=true&title_color=14B8A6&text_color=334155&bg_color=FFFFFF" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lifrmn&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
+  <img width="62%" src="https://streak-stats.demolab.com?user=lifrmn&hide_border=true&ring=14B8A6&fire=F59E0B&currStreakLabel=0F766E" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lifrmn&theme=tokyonight" width="92%" alt="Profile Summary" />
+  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lifrmn&theme=github" alt="GitHub contribution summary" />
 </p>
 
----
+## Learning Roadmap
 
-## 📈 Contribution Graph
+1. HTML, CSS, and JavaScript
+2. React, API integration, and deployment
+3. Python, backend logic, and automation
+4. Projects, portfolio development, and career preparation
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lifrmn&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
-</p>
+## Connect
 
----
-
-## 🧩 Learning Roadmap
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=FACC15&center=true&vCenter=true&width=780&lines=HTML+%E2%86%92+CSS+%E2%86%92+JavaScript;React+%E2%86%92+API+Integration+%E2%86%92+Deployment;Python+%E2%86%92+Backend+Logic+%E2%86%92+Automation;Project+%E2%86%92+Portfolio+%E2%86%92+Career" alt="Roadmap Animation" />
-</p>
-
----
-
-## 📫 Connect With Me
+Find my work on [GitHub](https://github.com/lifrmn) or connect through [CryptoJobsList](https://cryptojobslist.com/@terrakion_dev).
 
 <p align="center">
-  <a href="https://github.com/lifrmn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-lifrmn-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://cryptojobslist.com/@terrakion_dev" target="_blank">
-    <img src="https://img.shields.io/badge/CryptoJobsList-terrakion__dev-F7931A?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;What+is+the+difference+between+a+bug+and+a+girlfriend%3F;A+bug+can+be+fixed%2C+but+a+girlfriend+fixes+you." alt="Footer Typing Animation" />
-</p>
-
-<p align="center">
-  <b>💡 What is the difference between a bug and a girlfriend? A bug can be fixed, but a girlfriend fixes you. 💡</b>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:0f766e,70:2563eb,100:38bdf8&height=135&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:38BDF8&height=120&section=footer" alt="Footer decoration" />
 </p>
