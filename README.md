@@ -85,16 +85,16 @@ const alief = {
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lifrmn&show_icons=true&hide_border=true&title_color=14B8A6&icon_color=38BDF8&text_color=334155&bg_color=FFFFFF" alt="GitHub statistics" />
-  <img width="41%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lifrmn&layout=compact&hide_border=true&title_color=14B8A6&text_color=334155&bg_color=FFFFFF" alt="Most used languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lifrmn&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifrmn&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img width="62%" src="https://streak-stats.demolab.com?user=lifrmn&hide_border=true&ring=14B8A6&fire=F59E0B&currStreakLabel=0F766E" alt="GitHub contribution streak" />
+  <img width="62%" src="https://streak-stats.demolab.com?user=lifrmn&hide_border=true&theme=tokyonight" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lifrmn&theme=github" alt="GitHub contribution summary" />
+  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lifrmn&theme=tokyonight" alt="GitHub contribution summary" />
 </p>
 
 ## Learning Roadmap
